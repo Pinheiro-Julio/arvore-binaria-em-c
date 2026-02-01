@@ -1,1 +1,1 @@
-# arvore-bin-ria-em-c
+# arvore-binaria-em-c
